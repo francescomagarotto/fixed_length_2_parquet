@@ -1,0 +1,11 @@
+fields:
+  - name: name
+    length: 10
+    type: string
+  - name: surname
+    length: 10
+    type: string
+  - name: age
+    length: 10
+    type: int
+    format: %Y%m%d
